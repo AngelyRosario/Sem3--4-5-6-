@@ -1,0 +1,2 @@
+exclude:
+  - "TAREA/EJERCICIO3.5/node_modules/brace-expansion/README.md"
